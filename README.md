@@ -1,5 +1,8 @@
 * [Reports](https://odu-cs350-f26.github.io/CS350--lab4-documentation--enels014/)
 
+- [Unit Test Report](https://odu-cs350-f26.github.io/CS350--lab4-documentation--enels014/tests/test/)
+- [JavaDoc Report](https://odu-cs350-f26.github.io/CS350--lab4-documentation--enels014/javadoc/)
+
 # WordCounter
 
 There are a number of applications in which it is useful to know what the most
